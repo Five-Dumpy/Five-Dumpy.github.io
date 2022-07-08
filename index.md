@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Team. Five-Dumpy
 
 You can use the [editor on GitHub](https://github.com/Five-Dumpy/five-dumpy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
